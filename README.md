@@ -2,7 +2,7 @@ drawPie
 =======
 
 ## Overview
-This is a lightweight bundle for drawing pie charts only with css3. No other libraries needed.
+This is a lightweight bundle for drawing pie charts with css3. No other libraries needed.
 
 ## Code Example
 ```html
