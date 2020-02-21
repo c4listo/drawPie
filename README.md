@@ -33,6 +33,7 @@ The function accepts three parameters:
 ```	
 The default size of the chart is 30x30 px (see drawPie.css). The scale is applied to that size, that means if size is e.g. 3 the pie will be 90x90 px.
 
+
 ## Authors
 
 done by Patrick Eisenhut and Arnold Graf
